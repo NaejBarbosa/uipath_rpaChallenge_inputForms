@@ -12,7 +12,7 @@ Esse script desenvolvido em Uipath (RPA) é usado para preencher os campos do fo
 
 ## Workflows | Mapa Mental
 
-![mapa mental](/chellenge_v6/mindMap/rpa_challenge.png)
+![mapa mental](/mindMap/rpa_challenge.png)
 
 
 ## Ambiente e recursos de desenvolvimento
